@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASHISH</title>
+	<style type="text/css">
+		a{color: white;}
+	</style>
+</head>
+<body style="margin: 5px" bgcolor="silver">
+	<article>
+  <header>
+    <h1>News</h1>
+    <p>Local and National News</h2>
+  </header>
+  
+</article>
+
+<nav style="background-color: blue;padding: 5px;margin: 5px">
+<a href="">Home</a> |
+<a href="">Archives</a> |
+<a href="">About</a> |
+</nav>
+
+<article style="background-color: grey;padding: 5px;margin: 5px;width: 60%;float:left;">
+	<h1>Local News</h1>
+	<p style="background-color: white;margin: 5px;padding: 5px"><b>Fire fighter rescue man from building this is local news 1</b><br>(reporter name, date) <br>
+	This is the fighter details text. This is the story of fighter.<br>This is the details of rescue man. This is the story of how is rescued.</p>
+
+
+	<p style="background-color: white;margin: 5px;padding: 5px"><b>New Library to be built this is local news 2</b><br>(reporter name,data)<br>This is the story text. This is the story text.<br>This is the story text. This is the story text</p>
+	
+</article>
+<article style="margin: 5px;padding: 5px;background-color: grey;" >
+	<aside>
+  <h4>Be a news reporter</h4>
+  <p>If you see news happening - Send us a Text</p>
+</aside>
+</article>
+
+
+<article style="background-color: grey;padding: 5px;margin: 5px;width: 60%">
+	<h1>National News</h1>
+	<p style="background-color: white;margin: 5px;padding: 5px"><b>Snow storm is making travel difficult</b><br>(reporter name,date)<br>This is the story snow storm. This is the story distrolal of storm.<br>
+	This is the story part continued. This is the story text continued.</p>
+
+
+	<p style="background-color: white;margin: 5px;padding: 5px"><b>Thousands are without power</b><br>(reporter name, date)<br>This is the story of not having power. This is the story test continued. <br>
+	This is the story bad effect. This is ths story about distroyal of economy.</p>
+</article>
+<footer>
+	<p style="background-color: blue;color: white">Footer Information</p>	
+</footer>
+</body>
+</html>
